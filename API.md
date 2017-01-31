@@ -1,250 +1,61 @@
-# Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-
-- bullet
-- bullet
-
-1. list
-1. list
-
-## Sub-2-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-
-- bullet
-- bullet
-
-1. list
-1. list
-
-### Sub-3-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-
-- bullet
-- bullet
-
-1. list
-1. list
-
-
-#### Sub-4-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-
-- bullet
-- bullet
-
-1. list
-1. list
-
-## Sub-2-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-
-- bullet
-- bullet
-
-1. list
-1. list
-
-### Sub-3-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-
-- bullet
-- bullet
-
-1. list
-1. list
-
-
-#### Sub-4-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-
-```
-- bullet
-- bullet
-
-1. list
-1. list
-
-## Sub-2-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-
-- bullet
-- bullet
-
-1. list
-1. list
-
-### Sub-3-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-
-- bullet
-- bullet
-
-1. list
-1. list
-
-
-#### Sub-4-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-
-- bullet
-- bullet
-
-1. list
-1. list
-
-## Sub-2-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-
-- bullet
-- bullet
-
-1. list
-1. list
-
-### Sub-3-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-- bullet
-- bullet
-
-1. list
-1. list
-
-
-#### Sub-4-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-- bullet
-- bullet
-
-1. list
-1. list
-
-## Sub-2-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-- bullet
-- bullet
-
-1. list
-1. list
-
-### Sub-3-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-- bullet
-- bullet
-
-1. list
-1. list
-
-
-#### Sub-4-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-- bullet
-- bullet
-
-1. list
-1. list
-
-
-# Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-- bullet
-- bullet
-
-1. list
-1. list
-
-## Sub-2-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-- bullet
-- bullet
-
-1. list
-1. list
-
-### Sub-3-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-- bullet
-- bullet
-
-1. list
-1. list
-
-
-#### Sub-4-Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt vel urna id rhoncus. Aliquam fermentum nunc neque, ac semper neque mollis et. Mauris eu tellus id massa dapibus ultricies non ac quam. Aliquam dapibus enim at quam feugiat tempus. Donec tincidunt dignissim odio. Donec vel sodales massa. Aenean aliquet nisi nec pharetra tempor. Sed suscipit orci quis pellentesque molestie. 
-```
-- bullet
-- bullet
-
-1. list
-1. list
+# mbed OS APIs
+
+## Peripheral APIs
+Driver Group - mbed-os/tools/mbed-docs/html/classmbed_1_1*
+- [AnalogIn](link to mbed-os/tools/mbed-docs/html/classmbed_1_1AnalogIn.html) - Description goes here
+- [AnalogOut]() - Description goes here
+- [BusIn]() - Description goes here
+- [BusInOut]() - Description goes here
+- [BusOut]() - Description goes here
+- [CANMessage]() - Description goes here
+- [CAN]() - Description goes here
+- [DigitalIn]() - Description goes here
+- [DigitalInOut]() - Description goes here
+- [DigitalOut]() - Description goes here
+- [DirHandle]() - Description goes here
+- [Ethernet]() - Description goes here
+- [FileHandle]() - Description goes here
+- [FileSystemLike]() - Description goes here
+- [I2C]() - Description goes here
+- [I2CSlave]() - Description goes here
+- [InterruptIn]() - Description goes here
+- [InterruptManager]() - Description goes here
+- [LocalFileSystem]() - Description goes here
+- [LowPowerTicker]() - Description goes here
+- [LowPowerTimeout]() - Description goes here
+- [LowPowerTimer]() - Description goes here
+- [PortIn]() - Description goes here
+- [PortInOut]() - Description goes here
+- [PortOut]() - Description goes here
+- [PwmOut]() - Description goes here
+- [Serial]() - Description goes here
+- [SPI]() - Description goes here
+- [Ticker]() - Description goes here
+- [Timeout]() - Description goes here
+- [Timer]() - Description goes here
+- [TimerEvent]() - Description goes here
+ 
+## NetworkSocket APIs
+  /mbed-os/tools/mbed-docs/html/classNetworkInterface.html
+  - [Ethernet]() - Description goes here
+  - [Wifi]() - Description goes here
+  - [Cellular]() - Description goes here
+
+## Communication API's
+    /mbed-os/tools/mbed-docs/html/classNetworkInterface.html
+  - [Ethernet Network Socket]() - Description goes here
+  - [Wifi Network Socket]() - Description goes here
+  - [Cellular Network Socket]() - Description goes here
+  - [Bluetooth Low Energy]() - Description goes here
+  - [LoRA]() - Description goes here
+
+## RTOS API's
+  - [Thread]() - Description goes here
+  - [Mutex]() - Description goes here
+  - [Queue]() - Description goes here
+  - [RTOS Timer]() - Description goes here
+  - [Semaphore]() - Description goes here
+
+## Event API's
+  - [Event]() - Description goes here
+  - [Event Queue]() - Description goes here
