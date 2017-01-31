@@ -2,6 +2,7 @@
 
 ## Peripheral APIs
 Driver Group - mbed-os/tools/mbed-docs/html/classmbed_1_1*
+
 - [AnalogIn](link to mbed-os/tools/mbed-docs/html/classmbed_1_1AnalogIn.html) - Description goes here
 - [AnalogOut]() - Description goes here
 - [BusIn]() - Description goes here
@@ -37,12 +38,14 @@ Driver Group - mbed-os/tools/mbed-docs/html/classmbed_1_1*
  
 ## NetworkSocket APIs
   /mbed-os/tools/mbed-docs/html/classNetworkInterface.html
+  
   - [Ethernet]() - Description goes here
   - [Wifi]() - Description goes here
   - [Cellular]() - Description goes here
 
 ## Communication API's
     /mbed-os/tools/mbed-docs/html/classNetworkInterface.html
+  
   - [Ethernet Network Socket]() - Description goes here
   - [Wifi Network Socket]() - Description goes here
   - [Cellular Network Socket]() - Description goes here
@@ -50,6 +53,7 @@ Driver Group - mbed-os/tools/mbed-docs/html/classmbed_1_1*
   - [LoRA]() - Description goes here
 
 ## RTOS API's
+  
   - [Thread]() - Description goes here
   - [Mutex]() - Description goes here
   - [Queue]() - Description goes here
@@ -57,5 +61,6 @@ Driver Group - mbed-os/tools/mbed-docs/html/classmbed_1_1*
   - [Semaphore]() - Description goes here
 
 ## Event API's
+  
   - [Event]() - Description goes here
   - [Event Queue]() - Description goes here
