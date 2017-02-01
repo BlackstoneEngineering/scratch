@@ -3,64 +3,73 @@
 ## Peripheral APIs
 Driver Group - mbed-os/tools/mbed-docs/html/classmbed_1_1*
 
-- [AnalogIn](link to mbed-os/tools/mbed-docs/html/classmbed_1_1AnalogIn.html) - Description goes here
-- [AnalogOut]() - Description goes here
-- [BusIn]() - Description goes here
-- [BusInOut]() - Description goes here
-- [BusOut]() - Description goes here
-- [CANMessage]() - Description goes here
-- [CAN]() - Description goes here
-- [DigitalIn]() - Description goes here
-- [DigitalInOut]() - Description goes here
-- [DigitalOut]() - Description goes here
-- [DirHandle]() - Description goes here
-- [Ethernet]() - Description goes here
-- [FileHandle]() - Description goes here
-- [FileSystemLike]() - Description goes here
-- [I2C]() - Description goes here
-- [I2CSlave]() - Description goes here
-- [InterruptIn]() - Description goes here
-- [InterruptManager]() - Description goes here
-- [LocalFileSystem]() - Description goes here
-- [LowPowerTicker]() - Description goes here
-- [LowPowerTimeout]() - Description goes here
-- [LowPowerTimer]() - Description goes here
-- [PortIn]() - Description goes here
-- [PortInOut]() - Description goes here
-- [PortOut]() - Description goes here
-- [PwmOut]() - Description goes here
-- [Serial]() - Description goes here
-- [SPI]() - Description goes here
-- [Ticker]() - Description goes here
-- [Timeout]() - Description goes here
-- [Timer]() - Description goes here
-- [TimerEvent]() - Description goes here
+- [AnalogIn](link to mbed-os/tools/mbed-docs/html/classmbed_1_1AnalogIn.html) - Description goes here.
+- [AnalogOut]() - Description goes here.
+- [BusIn]() - Description goes here.
+- [BusInOut]() - Description goes here.
+- [BusOut]() - Description goes here.
+- [CANMessage]() - Description goes here. [Note: I have not seen this before.]
+- [CAN]() - Description goes here.
+- [DigitalIn]() - Description goes here.
+- [DigitalInOut]() - Description goes here.
+- [DigitalOut]() - Description goes here.
+- [DirHandle]() - Description goes here. [Note: I have not seen this before.]
+- [FileHandle]() - Description goes here. [Note: I have not seen this before.]
+- [FileSystemLike]() - Description goes here. [[Note: I have not seen this before.]
+- [I2C]() - Description goes here.
+- [I2CSlave]() - Description goes here.
+- [InterruptIn]() - Description goes here.
+- [InterruptManager]() - Description goes here. [Note: I have not seen this before.]
+- [LocalFileSystem]() - Description goes here. [Note: I have not seen this before.]
+- [LowPowerTicker]() - Description goes here. [Note: I have not seen this before.]
+- [LowPowerTimeout]() - Description goes here. [Note: I have not seen this before.]
+- [LowPowerTimer]() - Description goes here. [Note: I have not seen this before.]
+- [PortIn]() - Description goes here.
+- [PortInOut]() - Description goes here.
+- [PortOut]() - Description goes here.
+- [PwmOut]() - Description goes here.
+- [Serial]() - Description goes here.
+- [SPI]() - Description goes here.
+- [SPISlave]() - Description goes here. [Note: Added.]
+- [Ticker]() - Description goes here.
+- [Timeout]() - Description goes here.
+- [Timer]() - Description goes here.
+- [TimerEvent]() - Description goes here. [Note: I have not seen this before.]
+- [Time]() - Description goes here. [Note: Added.]
+- [Wait]() - Description goes here. [Note: Added.]
  
 ## NetworkSocket APIs
   /mbed-os/tools/mbed-docs/html/classNetworkInterface.html
   
-  - [Ethernet]() - Description goes here
-  - [Wifi]() - Description goes here
-  - [Cellular]() - Description goes here
+  - [Network sockets]() - Description goes here. [Note: Added.]
+  - [Ethernet]() - Description goes here.
+  - [Mesh networking]() - Description goes here. [Note: Added.]
+  - [Wifi]() - Description goes here.
+  - [Cellular]() - Description goes here.
 
-## Communication API's
+## Communication APIs
     /mbed-os/tools/mbed-docs/html/classNetworkInterface.html
     
-  - [Ethernet Network Socket]() - Description goes here
-  - [Wifi Network Socket]() - Description goes here
-  - [Cellular Network Socket]() - Description goes here
-  - [Bluetooth Low Energy]() - Description goes here
-  - [LoRA]() - Description goes here
+  - [Bluetooth Low Energy]() - Description goes here.
+  - [LoRA]() - Description goes here.
 
-## RTOS API's
+## RTOS APIs
 
-  - [Thread]() - Description goes here
-  - [Mutex]() - Description goes here
-  - [Queue]() - Description goes here
-  - [RTOS Timer]() - Description goes here
-  - [Semaphore]() - Description goes here
+  - [Interrupt service routines]() - Description goes here. [Note: Added.]
+  - [Mail]() - Description goes here. [Note: Added.]
+  - [Mutex]() - Description goes here.
+  - [Queue and MemoryPool]() - Description goes here. [Note: Added "and MemoryPool".]
+  - [RTOS timer]() - Description goes here.
+  - [Semaphore]() - Description goes here.
+  - [Signals]() - Description goes here. [Note: Added.]
+  - [Thread]() - Description goes here.
 
-## Event API's
+## Event APIs
 
-  - [Event]() - Description goes here
-  - [Event Queue]() - Description goes here
+  - [Event]() - Description goes here.
+  - [Event Queue]() - Description goes here.
+
+
+## Further reading and examples
+- [API Documentation](https://docs.mbed.com/docs/mbed-os-api-reference/en/latest/APIs/API_Documentation/) - Read about how to use the API documentation. [Note: Added.]
+- [Further reading and examples](https://docs.mbed.com/docs/mbed-os-api-reference/en/latest/further_reading/) - Review more resources that may help you start working with mbed OS 5. [Note: Added.]
