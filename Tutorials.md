@@ -3,11 +3,11 @@ Below are tutorials to help you understand mbed OS. The tutorials consist of thr
 
 ## Intro (<5 min)
 
-- [mbed CLI tips and tricks]() - Watch a video about hidden mbed CLI features.
-- [Your first FileSystem]() - Try a FileSystem example. See the README for instructions.
+- [mbed CLI tips and tricks]() - Watch a video about hidden mbed CLI features. [Note: To-do Add Content]
+- [Your first FileSystem]() - Try a FileSystem example. See the README for instructions. [Note: To-do Add Content]
 - [Application flow and task management](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/getting_started/flow_control/) - Use Blinky to explore flow control and task management in mbed OS applications.
-- [BBC micro:bit accelerometer](https://www.youtube.com/watch?v=_WGKBxSW_AE) - Watch a video about using the accelerometer on the BBC micro:bit using the mbed Online Compiler.
-- [BBC micro:bit hello world](https://www.youtube.com/watch?v=Jctpi6aqrHQ) - Watch a video about getting started with the BBC micro:bit on the mbed Online Compiler.
+- [BBC micro:bit accelerometer](https://www.youtube.com/watch?v=_WGKBxSW_AE) - Watch a video about using the accelerometer on the BBC micro:bit using the mbed Online Compiler. [Note: To-do Change link from video to doc with video]
+- [BBC micro:bit hello world](https://www.youtube.com/watch?v=Jctpi6aqrHQ) - Watch a video about getting started with the BBC micro:bit on the mbed Online Compiler. [Note: To-do Change link from video to doc with video]
 - [Blinky on mbed CLI](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/getting_started/blinky_cli/) - Create your first application on mbed CLI.
 - [Blinky on the mbed Online Compiler](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/getting_started/blinky_compiler/) - Create your first application on the Online Compiler.
 - [Build profiles](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/dev_tools/build_profiles/) - Learn about the three build profiles.
@@ -29,10 +29,10 @@ Below are tutorials to help you understand mbed OS. The tutorials consist of thr
 
 ## Intermediate (5-10 min)
 
-- [Creating your first community project]() - Create your first community project.
-- [Greentea testing framework]() - Introduction to Greentea and testing with mbed OS.
-- [Event based programming]() - Program in an event-based model instead of an RTOS-based model.
-- [BBC micro:bit proximity heart](https://www.youtube.com/watch?v=xKWQSjg6rX4) - Watch a video about using the radio TX/RX libraries that are part of the micro:bit DAL.
+- [Creating your first community project]() - Create your first community project. [Note: To-do Add Content]
+- [Greentea testing framework]() - Introduction to Greentea and testing with mbed OS. [Note: To-do Add Content]
+- [Event based programming]() - Program in an event-based model instead of an RTOS-based model. [Note: To-do Add Content]
+- [BBC micro:bit proximity heart](https://www.youtube.com/watch?v=xKWQSjg6rX4) - Watch a video about using the radio TX/RX libraries that are part of the micro:bit DAL. [Note: To-do Change link from video to doc with video]
 - [CMSIS-DAP and DAPLink](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/advanced/DAP/) - Use the open source DAPLink project.
 - [Code style guide](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/cont/code_style/) - Contribute code to mbed OS.
 - [Collaboration and version control](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/collab/collab_intro/) - Collaborate with the Online Compiler.
@@ -46,7 +46,7 @@ Below are tutorials to help you understand mbed OS. The tutorials consist of thr
 
 ## Advanced (10+ min)
 
-- [Continuous integration with mbed]() - Use mbed OS in a CI environment.
+- [Continuous integration with mbed]() - Use mbed OS in a CI environment. [Note: To-do Add Content]
 - [mbed CLI](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/dev_tools/cli/) - Read the full documentation for mbed CLI. To get started with mbed CLI, see the [mbed OS getting started]().
 - [6LoWPAN overview](https://docs.mbed.com/docs/arm-ipv66lowpan-stack/en/latest/quick_start_intro/) - Develop an application on top of the 6LoWPAN mesh solution. [Note: Contains four parts.]
 - [6LoWPAN mesh application](https://developer.mbed.org/teams/mbed-os-examples/code/mbed-os-example-mesh-minimal/) - Join a device to an insecure 6LoWPAN-ND network.
