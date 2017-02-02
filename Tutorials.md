@@ -39,8 +39,8 @@ Below are tutorials to help you understand mbed OS. The tutorials consist of thr
 - [Contribution and publishing guide](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/cont/contributing/) - Create and publish your own libraries.
 - [Debugging with CMSIS-DAP](https://docs.mbed.com/docs/debugging-on-mbed/en/latest/) - Use CMSIS-DAP, mbed's debugging protocol. [Note: Contains six parts.]
 - [Design guidelines](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/cont/design_guidelines/) - mbed OS software design guide.
-- [Getting started with mbed Cloud / Cloud Client](cloud.mbed.com/docs/quickstart) - Get started with mbed Cloud on mbed OS.
-- [mbed Hardware Development Kit](https://docs.mbed.com/docs/mbed-hardware-development-kit/en/latest/) - See Eagle library of components used to build mbed boards.
+- [Getting started with mbed Cloud/Cloud Client](cloud.mbed.com/docs/quickstart) - Get started with mbed Cloud on mbed OS.
+- [mbed hardware development kit](https://docs.mbed.com/docs/mbed-hardware-development-kit/en/latest/) - See Eagle library of components used to build mbed boards.
 - [Runtime statistics](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/advanced/runtime_stats/) - Use heap and stack statistics.
 - [Testing](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/advanced/testing/) - Run and compile tests in mbed OS 5.
 
@@ -68,12 +68,12 @@ Below are tutorials to help you understand mbed OS. The tutorials consist of thr
 - [mbed TLS hardware acceleration](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/advanced/tls_hardware_acceleration/) - Add and use hardware acceleration to mbed TLS. [Note: Duplicated in TLS.]
 - [Migrating from mbed OS 3 - MINAR](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/advanced/MINAR_migration/) - Port mbed OS 3 to mbed OS 5.
 - [Port new mbed platform](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/advanced/porting_guide/) - Port a new mbed platform.
-- [Porting 6LoWPAN Stack](https://docs.mbed.com/docs/arm-ipv66lowpan-stack/en/latest/16_API_porting/) - Port the 6LoWPAN stack to a new platform.
+- [Porting 6LoWPAN stack](https://docs.mbed.com/docs/arm-ipv66lowpan-stack/en/latest/16_API_porting/) - Port the 6LoWPAN stack to a new platform.
 - [Runtime memory tracing](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/advanced/runtime_mem_trace/) - Use the memory tracer.
 - [Simplicity Studio](https://docs.mbed.com/docs/third-party-integrations/en/latest/Simp_Stu/simp_stu/) - Import your mbed OS project to Simplicity Studio. [Note: Out of date?]
-- [Stack Overview](https://docs.mbed.com/docs/arm-ipv66lowpan-stack/en/latest/01_overview/) - Review the 6LoWPAN stack, stack architecture and associated standards it implements. [Note: Contains four parts.]
+- [Stack overview](https://docs.mbed.com/docs/arm-ipv66lowpan-stack/en/latest/01_overview/) - Review the 6LoWPAN stack, stack architecture and associated standards it implements. [Note: Contains four parts.]
 - [Static memory map analysis](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/concepts/memap/) - Use memap.
 - [Thread safety](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/concepts/thread_safety/) - Port mbed OS RTOS and thread safety mechanisms to a new target.
-- [Thread Stack](https://docs.mbed.com/docs/arm-ipv66lowpan-stack/en/latest/thread_overview/) - Review the characteristics of the Thread stack and network. [Note: Contains four parts.]
+- [Thread stack](https://docs.mbed.com/docs/arm-ipv66lowpan-stack/en/latest/thread_overview/) - Review the characteristics of the Thread stack and network. [Note: Contains four parts.]
 - [URI beacon](https://developer.mbed.org/teams/mbed-os-examples/code/mbed-os-example-ble-URIBeacon/) - Create a URI beacon to send information to a nearby device using Bluetooth Low Energy (BLE).
 - [Wi-Fi](https://github.com/ARMmbed/mbed-os-example-wifi) - Perform HTTP operations using the Wi-Fi interface.
