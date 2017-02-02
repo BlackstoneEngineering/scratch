@@ -85,5 +85,5 @@ Note: This section taken from [here](https://docs.mbed.com/docs/arm-ipv66lowpan-
 - [Thread stack]()- Description goes here. [Note: Added.]
 
 ## Further reading and examples
-- [API Documentation](https://docs.mbed.com/docs/mbed-os-api-reference/en/latest/APIs/API_Documentation/) - Read about how to use the API documentation. [Note: Added.]
-- [Further reading and examples](https://docs.mbed.com/docs/mbed-os-api-reference/en/latest/further_reading/) - Review more resources that may help you start working with mbed OS 5. [Note: Added.]
+- [API Documentation](https://docs.mbed.com/docs/mbed-os-api-reference/en/latest/APIs/API_Documentation/) - Read about how to use the API documentation. [Note: To-do Move elsewhere.]
+- [Further reading and examples](https://docs.mbed.com/docs/mbed-os-api-reference/en/latest/further_reading/) - Review more resources that may help you start working with mbed OS 5. [Note: To-do Move elsewhere.]
