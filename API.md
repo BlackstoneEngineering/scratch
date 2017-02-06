@@ -3,7 +3,7 @@
 ## Peripheral APIs
 Driver Group - mbed-os/tools/mbed-docs/html/classmbed_1_1*
 
-- [AnalogIn](link to mbed-os/tools/mbed-docs/html/classmbed_1_1AnalogIn.html) - Description goes here.
+- [AnalogIn]() - Read an external voltage applied to an analog input pin.
 - [AnalogOut]() - Description goes here.
 - [BusIn]() - Description goes here.
 - [BusInOut]() - Description goes here.
@@ -41,7 +41,7 @@ Driver Group - mbed-os/tools/mbed-docs/html/classmbed_1_1*
 ## NetworkSocket APIs
   /mbed-os/tools/mbed-docs/html/classNetworkInterface.html
   
-- [Network sockets]() - Description goes here. [Note: Added.]
+- [Network sockets]() - Learn a common interface for using sockets on network devices. [Note: Added.]
 - [Ethernet]() - Description goes here.
 - [Mesh networking]() - Description goes here. [Note: Added.]
 - [Wifi]() - Description goes here.
@@ -50,19 +50,19 @@ Driver Group - mbed-os/tools/mbed-docs/html/classmbed_1_1*
 ## Communication APIs
     /mbed-os/tools/mbed-docs/html/classNetworkInterface.html
     
-- [Bluetooth Low Energy]() - Description goes here.
+- [Bluetooth Low Energy]() - Use Bluetooth Low Energy (BLE), a very low-power wireless technology standard for personal area networks.
 - [LoRA]() - Description goes here.
 
 ## RTOS APIs
 
-- [Interrupt service routines]() - Description goes here. [Note: Added.]
-- [Mail]() - Description goes here. [Note: Added.]
-- [Mutex]() - Description goes here.
-- [Queue and MemoryPool]() - Description goes here. [Note: Added "and MemoryPool".]
-- [RTOS timer]() - Description goes here.
-- [Semaphore]() - Description goes here.
-- [Signals]() - Description goes here. [Note: Added.]
-- [Thread]() - Description goes here.
+- [Interrupt service routines]() - Use a message from the queue to trigger an interrupt. [Note: Added.]
+- [Mail]() - Use `mail` like a queue with the added benefit of providing a memory pool for allocating messages (not only pointers). [Note: Added.]
+- [Mutex]() - Synchronize the execution of threads to protect the access to a shared resource, for example.
+- [Queue and MemoryPool]() - Queue pointers to data from producer threads to consumer threads and define and manage fixed-size memory pools. [Note: Added "and MemoryPool".]
+- [RTOS timer]() - Create and control time functions in the system.
+- **[Semaphore](semaphore.md) - Manage thread access to a pool of shared resources of a certain type.**
+- [Signals]() - Make threads wait for signals and be notified of events. [Note: Added.]
+- [Thread]() - Use two separate threads to blink two LEDs.
 
 ## Event APIs
 
