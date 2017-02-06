@@ -4,10 +4,10 @@
 Driver Group - mbed-os/tools/mbed-docs/html/classmbed_1_1*
 
 - [AnalogIn]() - Read an external voltage applied to an analog input pin.
-- [AnalogOut]() - Description goes here.
-- [BusIn]() - Description goes here.
-- [BusInOut]() - Description goes here.
-- [BusOut]() - Description goes here.
+- [AnalogOut]() - Set the voltage of an analog output pin in the range of VSS to VCC.
+- [BusIn]() - Create DigitalIn pins that can be read as one value.
+- [BusInOut]() - Collect DigitalInOut pins that can be read and written as one value.
+- [BusOut]() - Create DigitalOut pins that you can write as one value.
 - [CANMessage]() - Description goes here. [Note: I have not seen this before.]
 - [CAN]() - Description goes here.
 - [DigitalIn]() - Description goes here.
