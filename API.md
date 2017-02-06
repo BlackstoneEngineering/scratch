@@ -9,43 +9,43 @@ Driver Group - mbed-os/tools/mbed-docs/html/classmbed_1_1*
 - [BusInOut]() - Collect DigitalInOut pins that can be read and written as one value.
 - [BusOut]() - Create DigitalOut pins that you can write as one value.
 - [CANMessage]() - Description goes here. [Note: I have not seen this before.]
-- [CAN]() - Description goes here.
-- [DigitalIn]() - Description goes here.
-- [DigitalInOut]() - Description goes here.
-- [DigitalOut]() - Description goes here.
+- [CAN]() - Communication two directions between microcontrollers and devices without going through a host computer.
+- [DigitalIn]() - Read the value of a digital input pin.
+- [DigitalInOut]() - Read the value of a digital pin when set as input, and write the value when set as output.
+- [DigitalOut]() - Configure and control a digital output pin.
 - [DirHandle]() - Description goes here. [Note: I have not seen this before.]
 - [FileHandle]() - Description goes here. [Note: I have not seen this before.]
-- [FileSystemLike]() - Description goes here. [[Note: I have not seen this before.]
-- [I2C]() - Description goes here.
-- [I2CSlave]() - Description goes here.
-- [InterruptIn]() - Description goes here.
+- [FileSystemLike]() - Description goes here. [Note: I have not seen this before.]
+- [I2C]() - Communicate with I2C devices such as serial memories, sensors and other modules or integrated circuits.
+- [I2CSlave]() - Communicate with I2C master.
+- [InterruptIn]() - Trigger an event when a digital input pin changes.
 - [InterruptManager]() - Description goes here. [Note: I have not seen this before.]
 - [LocalFileSystem]() - Description goes here. [Note: I have not seen this before.]
 - [LowPowerTicker]() - Description goes here. [Note: I have not seen this before.]
 - [LowPowerTimeout]() - Description goes here. [Note: I have not seen this before.]
 - [LowPowerTimer]() - Description goes here. [Note: I have not seen this before.]
-- [PortIn]() - Description goes here.
-- [PortInOut]() - Description goes here.
-- [PortOut]() - Description goes here.
-- [PwmOut]() - Description goes here.
-- [Serial]() - Description goes here.
-- [SPI]() - Description goes here.
+- [PortIn]() - Read an underlying GPIO port as one value.
+- [PortInOut]() - Read and write to an underlying GPIO port as one value.
+- [PortOut]() - Write to an underlying GPIO port as one value.
+- [PwmOut]() - Control the frequency and mark-to-space ratio of a digital pulse train.
+- [Serial]() - Use this generic protocol that computers and electronic modules to send and receive control information and data.
+- [SPI]() - Communicate with SPI slave devices, such as FLASH memory, LCD screens and other modules or integrated circuits.
 - [SPISlave]() - Description goes here. [Note: Added.]
-- [Ticker]() - Description goes here.
-- [Timeout]() - Description goes here.
-- [Timer]() - Description goes here.
+- [Ticker]() - Set up a recurring interrupt.
+- [Timeout]() - Set up an interrupt to call a function after a specified delay.
+- [Timer]() - Create, start, stop and read a timer for measuring small times (between microseconds and seconds).
 - [TimerEvent]() - Description goes here. [Note: I have not seen this before.]
-- [Time]() - Description goes here. [Note: Added.]
-- [Wait]() - Description goes here. [Note: Added.]
+- [Time]() - Use date and time functions that provide support for time acquisition, conversion between date formats and formatted output to strings. [Note: Added.]
+- [Wait]() - Use wait capabilities. [Note: Added.]
  
 ## NetworkSocket APIs
   /mbed-os/tools/mbed-docs/html/classNetworkInterface.html
   
 - [Network sockets]() - Learn a common interface for using sockets on network devices. [Note: Added.]
-- [Ethernet]() - Description goes here.
-- [Mesh networking]() - Description goes here. [Note: Added.]
-- [Wifi]() - Description goes here.
-- [Cellular]() - Description goes here.
+- [Ethernet]() - Connect to the internet over an Ethernet connection using this C++ API.
+- [Mesh networking]() - Learn how to use two IPv6 based mesh networks. [Note: Added.]
+- [Wifi]() - Connect to the internet over a Wi-Fi device with this C++ API.
+- [Cellular]() - Description goes here. [Note: I have not see nthis before.]
 
 ## Communication APIs
     /mbed-os/tools/mbed-docs/html/classNetworkInterface.html
