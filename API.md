@@ -70,6 +70,7 @@ Driver Group - mbed-os/tools/mbed-docs/html/classmbed_1_1*
 - [Event Queue]() - Description goes here.
 
 ## Other APIs
+
 Note: This section taken from [here](https://docs.mbed.com/docs/arm-ipv66lowpan-stack/en/latest/06_API_introduction/).
 - [Data structures, types and variables]() - Description goes here. [Note: Added.]
 - [Device driver]() - Description goes here. [Note: Added.]
@@ -84,6 +85,8 @@ Note: This section taken from [here](https://docs.mbed.com/docs/arm-ipv66lowpan-
 - [Socket]() - Description goes here. [Note: Added.]
 - [Thread stack]()- Description goes here. [Note: Added.]
 
+
 ## Further reading and examples
+
 - [API Documentation](https://docs.mbed.com/docs/mbed-os-api-reference/en/latest/APIs/API_Documentation/) - Read about how to use the API documentation. [Note: To-do Move elsewhere.]
 - [Further reading and examples](https://docs.mbed.com/docs/mbed-os-api-reference/en/latest/further_reading/) - Review more resources that may help you start working with mbed OS 5. [Note: To-do Move elsewhere.]
